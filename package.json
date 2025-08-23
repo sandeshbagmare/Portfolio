@@ -1,0 +1,28 @@
+{
+  "name": "sandesh-portfolio",
+  "version": "1.0.0",
+  "description": "Futuristic AI Engineer Portfolio with dynamic themes",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "lit": "^3.1.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "portfolio",
+    "lit",
+    "web-components",
+    "ai-engineer",
+    "futuristic"
+  ],
+  "author": "Sandesh (Narendra) Bagmare",
+  "license": "MIT"
+}
